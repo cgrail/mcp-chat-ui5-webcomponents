@@ -9,6 +9,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@lmstudio/sdk": "^1.1.1",
     "@ui5/webcomponents": "2.9.0",
     "@ui5/webcomponents-fiori": "2.9.0",
     "@ui5/webcomponents-icons": "2.9.0",
